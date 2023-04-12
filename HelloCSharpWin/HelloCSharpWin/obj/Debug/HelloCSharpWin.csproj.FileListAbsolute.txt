@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe.config
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\bin\Debug\HelloCSharpWin.pdb
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.Calculator.resources
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.exe
+C:\Users\User\Documents\Visual Studio 2022\project\HelloCSharpWin\HelloCSharpWin\obj\Debug\HelloCSharpWin.pdb
