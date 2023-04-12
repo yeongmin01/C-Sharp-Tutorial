@@ -7,5 +7,5 @@ Lecture video website : https://www.inflearn.com/course/lecture?courseSlug=c-%EC
 ## HelloCSharpWin
 - Make Calcluator UI using C-Sharp.
 
-##CuteCat
+## CuteCat
 - Generate new class (.cs file) and use it.  
