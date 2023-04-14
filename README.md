@@ -8,4 +8,10 @@ Lecture video website : https://www.inflearn.com/course/lecture?courseSlug=c-%EC
 - Make Calcluator UI using C-Sharp.
 
 ## CuteCat
-- Generate new class (.cs file) and use it.  
+- Generate new class (.cs file) and use it.
+- Make the field and method in class
+
+## AnimalShelter
+- Use Array to save multi data in ListBox 
+- The data writed from TextBox
+- And if we Click the data in ListBox that will be appear on the label.
