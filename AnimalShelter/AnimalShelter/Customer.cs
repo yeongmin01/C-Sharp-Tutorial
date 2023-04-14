@@ -18,6 +18,65 @@ namespace AnimalShelter
         public string Description;
         private bool _IsQualified;
 
+        private List<Pet> _MyPets = new List<Pet>();
+        public List<Pet> MyPets
+        {
+            get { return _MyPets; }
+        }
+
+        public bool Adopt(Pet pet)
+        {
+            if (IsQualified)
+            {
+                _MyPets.Add(pet);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        /*
+        private List<Cat> _MyCats = new List<Cat>();
+        public List<Cat> MyCats
+        {
+            get { return _MyCats; }
+        }
+
+        public bool Adopt(Cat cat)
+        {
+            if (IsQualified)
+            {
+                _MyCats.Add(cat);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        private List<Dog> _MyDogs = new List<Dog>();
+        public List<Dog> MyDogs
+        {
+            get { return _MyDogs; }
+        }
+
+        public bool Adopt(Dog dog)
+        {
+            if (IsQualified)
+            {
+                _MyDogs.Add(dog);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        */
+
         public Customer(string firstName, string lastName, DateTime birthday) 
         { 
             this.FirstName = firstName;

@@ -58,6 +58,8 @@
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.label11 = new System.Windows.Forms.Label();
+            this.CusPetInfo = new System.Windows.Forms.Label();
             this.CusDetailPanel.SuspendLayout();
             this.CusNewPanel.SuspendLayout();
             this.CusListPanel.SuspendLayout();
@@ -77,6 +79,8 @@
             // 
             // CusDetailPanel
             // 
+            this.CusDetailPanel.Controls.Add(this.CusPetInfo);
+            this.CusDetailPanel.Controls.Add(this.label11);
             this.CusDetailPanel.Controls.Add(this.CusIsQualified);
             this.CusDetailPanel.Controls.Add(this.label6);
             this.CusDetailPanel.Controls.Add(this.CusDescription);
@@ -195,7 +199,7 @@
             this.CusNewPanel.Controls.Add(this.label8);
             this.CusNewPanel.Controls.Add(this.label9);
             this.CusNewPanel.Controls.Add(this.label10);
-            this.CusNewPanel.Location = new System.Drawing.Point(458, 175);
+            this.CusNewPanel.Location = new System.Drawing.Point(20, 62);
             this.CusNewPanel.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CusNewPanel.Name = "CusNewPanel";
             this.CusNewPanel.Size = new System.Drawing.Size(467, 446);
@@ -291,10 +295,11 @@
             // CusListPanel
             // 
             this.CusListPanel.Controls.Add(this.CusList);
+            this.CusListPanel.Controls.Add(this.CusNewPanel);
             this.CusListPanel.Location = new System.Drawing.Point(12, 55);
             this.CusListPanel.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CusListPanel.Name = "CusListPanel";
-            this.CusListPanel.Size = new System.Drawing.Size(404, 442);
+            this.CusListPanel.Size = new System.Drawing.Size(435, 416);
             this.CusListPanel.TabIndex = 3;
             // 
             // CusList
@@ -315,7 +320,7 @@
             this.CusList.RowHeadersWidth = 51;
             this.CusList.RowTemplate.Height = 27;
             this.CusList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.CusList.Size = new System.Drawing.Size(404, 442);
+            this.CusList.Size = new System.Drawing.Size(435, 416);
             this.CusList.TabIndex = 0;
             this.CusList.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.CusList_CellClick);
             // 
@@ -346,7 +351,7 @@
             this.toolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(953, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(942, 24);
             this.menuStrip1.TabIndex = 4;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -357,13 +362,30 @@
             this.toolStripMenuItem1.Text = "새 입양자";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.ToolStripMenuItem_Click);
             // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(17, 133);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(21, 12);
+            this.label11.TabIndex = 10;
+            this.label11.Text = "펫:";
+            // 
+            // CusPetInfo
+            // 
+            this.CusPetInfo.AutoSize = true;
+            this.CusPetInfo.Location = new System.Drawing.Point(82, 133);
+            this.CusPetInfo.Name = "CusPetInfo";
+            this.CusPetInfo.Size = new System.Drawing.Size(38, 12);
+            this.CusPetInfo.TabIndex = 11;
+            this.CusPetInfo.Text = "label2";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(953, 632);
+            this.ClientSize = new System.Drawing.Size(942, 585);
             this.Controls.Add(this.CusListPanel);
-            this.Controls.Add(this.CusNewPanel);
             this.Controls.Add(this.CusDetailPanel);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -415,6 +437,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.Label CusPetInfo;
+        private System.Windows.Forms.Label label11;
     }
 }
 
