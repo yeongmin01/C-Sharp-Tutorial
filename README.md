@@ -12,6 +12,8 @@ Lecture video website : https://www.inflearn.com/course/lecture?courseSlug=c-%EC
 - Make the field and method in class
 
 ## AnimalShelter
+-- 속성은 필드를 사용하는것 처럼 사용.
+-- 필드는 값을 선언하기만 하지만 속성은 set에서 함수처럼 코딩을 할 수 있으므러 값에 대한 별도의 처리가 가능.
 - Use List to save multi data in DataGridView. 
 - The data writed from TextBox
 - And if we Click the cell in DataGridView, related data will be appear on the label.
