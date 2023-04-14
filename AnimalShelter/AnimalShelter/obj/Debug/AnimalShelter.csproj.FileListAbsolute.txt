@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\Users\User\Documents\Visual Studio 2022\project\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.pdb
