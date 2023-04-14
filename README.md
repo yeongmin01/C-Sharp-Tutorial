@@ -12,6 +12,7 @@ Lecture video website : https://www.inflearn.com/course/lecture?courseSlug=c-%EC
 - Make the field and method in class
 
 ## AnimalShelter
-- Use Array to save multi data in ListBox 
+- Use List to save multi data in DataGridView. 
 - The data writed from TextBox
-- And if we Click the data in ListBox that will be appear on the label.
+- And if we Click the cell in DataGridView, related data will be appear on the label.
+- When press the button "새 입양자" TexBox Panel appear and Click the cell in DataGridView Detail panel appear.
